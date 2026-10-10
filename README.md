@@ -71,3 +71,5 @@ Errors: return `{"detail": "message"}` (FastAPI default) and it shows in the UI.
 3. Compare skills with target role -> `/skill-gap`
 4. Jobs table + match % -> `/jobs`
 5. AI (Claude API) to generate the learning steps -> `/learning-path`
+ 
+🔗 **Live Demo:** [https://career-lens-ai-gfmb.vercel.app](https://career-lens-ai-gfmb.vercel.app)
