@@ -1,3 +1,16 @@
+# CareerLens AI
+
+AI-powered resume analyzer and career skill-gap website.
+
+## Status
+- Frontend: Completed (React.js + Tailwind CSS)
+- Backend: In progress (Python + FastAPI)
+
+## Features
+- Login / Signup
+- Dashboard with career readiness score
+- Skill gap analysis, job matches, learning path
+
 # CareerLens AI - Frontend (React + Tailwind)
 
 ## Run
